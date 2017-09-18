@@ -13,24 +13,26 @@ To use:
 * Tap the "View Sources" button to view the source of the recipe.
 
 Requires:
+
 Android 6.0
 
 Documentation Used:
+
 https://developer.android.com/guide/index.html
 
 Sources Used:
 
-* Recipe:
-http://allrecipes.com/recipe/20177/todds-famous-blueberry-pancakes/?clickId=right%20rail%200&internalSource=rr_feed_recipe&referringId=17611&referringContentType=recipe
+* [Recipe](http://allrecipes.com/recipe/20177/todds-famous-blueberry-pancakes/?clickId=right%20rail%200&internalSource=rr_feed_recipe&referringId=17611&referringContentType=recipe)
 
-* Icon:
-http://sweetfrog.com/yogurt/flavor/nsa-blueberry
+* [Icon](http://sweetfrog.com/yogurt/flavor/nsa-blueberry)
 
 Learned:
+
 In completing this app, I learned how to use the ImageView view, how to set the icon of my app, as well as the tasks we achieved in class:
 * Connecting a function to a button
 * Using a sub-layout
 * Adding a rating widget
 * Adding text
 * Saving images and string values in the res/ folder
+
 I can now move forward into creating more advanced apps.
